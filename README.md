@@ -177,6 +177,7 @@
           <p>!版權及源代碼所有-航機系008沈崑宸!</p>
           <p>!僅作為自我測驗使用!</p>
           <p>!此章節不含圖片題</p>
+          <p>!PART-66還沒放完再等等</p>
         </div>
         <input type="text" id="nameInput" placeholder="輸入姓名 / Enter your name"
                style="width:100%;padding:8px;margin-bottom:10px;font-size:1em;" />
