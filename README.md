@@ -176,12 +176,12 @@
           <p>6. 測驗過程為亂序出題。 / The test process was chaotic and disordered in setting questions.</p>
           <p>!版權及源代碼所有-航機系008沈崑宸!</p>
           <p>!僅作為自我測驗使用!</p>
-          <p>!此章節不含圖片題</p>
-          <p>!PART-66還沒放完再等等</p>
+          <p>!此章節不含圖片題!</p>
+          <p>!此章節已包含PART-66!</p>
         </div>
         <input type="text" id="nameInput" placeholder="輸入姓名 / Enter your name"
                style="width:100%;padding:8px;margin-bottom:10px;font-size:1em;" />
-        <input type="number" id="questionLimit" placeholder="輸入題數,至多346題 / Enter number of questions"
+        <input type="number" id="questionLimit" placeholder="輸入題數,至多539題 / Enter number of questions"
                style="width:100%;padding:8px;margin-bottom:10px;font-size:1em;" />
         <!-- 新增：作答時間（分鐘），預設 80，限制 1~300 -->
         <input type="number" id="durationInput" value="80" min="1" max="300"
