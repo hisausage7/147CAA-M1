@@ -2681,6 +2681,1745 @@
       "C. -3"
     ],
     answer: "C"
+  },
+  {
+    question: "Solve the following equation: 5x = 3x + 2. 求解方程式：5x = 3x + 2。",
+    options: [
+      "A. 3",
+      "B. 5",
+      "C. 1"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Simplify (w + z)(x − y)(y − w) / (y − x)(w − y)(w + z). 化簡：(w + z)(x − y)(y − w) / (y − x)(w − y)(w + z)。",
+    options: [
+      "A. -1",
+      "B. 0",
+      "C. +1"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Given 4³ − x = 21, find the value of x. 已知 4³ − x = 21，求 x。",
+    options: [
+      "A. 43 − 21",
+      "B. 43 / 21",
+      "C. 43 + 21"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Make L the subject of the formula 2πfL = x. 將公式 2πfL = x 改寫，使 L 為主變數。",
+    options: [
+      "A. L = 2πf",
+      "B. L = 2πf / x",
+      "C. L = x / (2πf)"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Given that A = X + BY, what is Y equal to? 若 A = X + BY，Y 等於？",
+    options: [
+      "A. A − X 加上 B",
+      "B. (A − X) ÷ B",
+      "C. A − X − B"
+    ],
+    answer: "B"
+  },
+  {
+    question: "If y/x = 4 and y = 5, then x = ? 若 y/x = 4 且 y = 5，則 x =？",
+    options: [
+      "A. 20",
+      "B. 4/5",
+      "C. 1 1/4"
+    ],
+    answer: "C"
+  },
+  {
+    question: "(x − 3)(x + 5) = ?",
+    options: [
+      "A. x² + 2x",
+      "B. x² + 2x − 15",
+      "C. x² − 15"
+    ],
+    answer: "B"
+  },
+  {
+    question: "21 = 43 − x, x is equal to. 已知 21 = 43 − x，x 等於？",
+    options: [
+      "A. 21 − 43",
+      "B. 43 + 21",
+      "C. 43 − 21"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Evaluate 2x²z²(3x − z²). 計算：2x²z²(3x − z²)。",
+    options: [
+      "A. 6x²z² + 3x − z²",
+      "B. 6x²z² − 2x²z²",
+      "C. 6x³z² − 2x²z⁴"
+    ],
+    answer: "C"
+  },
+  {
+    question: "(a · b)(a · b) = ?",
+    options: [
+      "A. a² + 2ab + b²",
+      "B. a²b²",
+      "C. a² + b²"
+    ],
+    answer: "B"
+  },
+  {
+    question: "If y/x = 4 and x = 5, then y = ? 若 y/x = 4 且 x = 5，則 y =？",
+    options: [
+      "A. 1 1/4",
+      "B. 20",
+      "C. 4/5"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Determine x.（原式略） 已知某方程，其解 x 最接近？",
+    options: [
+      "A. 9.029",
+      "B. 9.570",
+      "C. 8.971"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Find L in the following expression.（原式略） 求 L 的表達式。",
+    options: [
+      "A. Q²C / R²",
+      "B. Q²C² / R",
+      "C. Q²R²C"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The heat of a resistor is given by h = I²RT. Find the current I. 電阻產生的熱量為 h = I²RT，求電流 I。",
+    options: [
+      "A. I = √(hRT)",
+      "B. I = √(h / (RT))",
+      "C. I = h / (RT)"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Factorise: x² − x − 6 = 0. 因式分解：x² − x − 6 = 0。",
+    options: [
+      "A. (x − 2)(x + 3)",
+      "B. (x − 2)(x − 3)",
+      "C. (x + 2)(x − 3)"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Factorise: 4x² − 6x − 28 = 0. 因式分解：4x² − 6x − 28 = 0。",
+    options: [
+      "A. (4x − 14)(x + 2)",
+      "B. (2x + 7)(x − 2)",
+      "C. (2x² + 7)(x + 2)"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Solve for x: 3(x + 2) = 30 + 2(x − 4). 解方程：3(x + 2) = 30 + 2(x − 4)。",
+    options: [
+      "A. 8",
+      "B. 16",
+      "C. 15"
+    ],
+    answer: "B"
+  },
+  {
+    question: "2x = 4(x − 3), evaluate x. 已知 2x = 4(x − 3)，求 x。",
+    options: [
+      "A. 6",
+      "B. 0.5",
+      "C. 2"
+    ],
+    answer: "A"
+  },
+  {
+    question: "12x/(2y) + 14 = 50, when y = 2, solve for x. 已知 12x/(2y) + 14 = 50，且 y = 2，求 x。",
+    options: [
+      "A. 11.6",
+      "B. 14",
+      "C. 12"
+    ],
+    answer: "C"
+  },
+  {
+    question: "27y = 3, so y is equal to. 若 27y = 3，則 y 等於？",
+    options: [
+      "A. 1/9",
+      "B. 1/3",
+      "C. 9/1"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Solve for x: (2x − 1)(3x + 2) = 0. 解方程：(2x − 1)(3x + 2) = 0。",
+    options: [
+      "A. 1.5, 1",
+      "B. 0.5, 3",
+      "C. -0.67, 0.5"
+    ],
+    answer: "C"
+  },
+  {
+    question: "(x + y + z)(x + y + z) = ?",
+    options: [
+      "A. 2(x + y + z)",
+      "B. 2x + 2y + 2z",
+      "C. (x + y + z)²"
+    ],
+    answer: "C"
+  },
+  {
+    question: "If x = Ly + 7cb, define the formula for y. 已知 x = Ly + 7cb，請將等式改寫為 y = ?",
+    options: [
+      "A. (x − 7cb) / L",
+      "B. x − 7cb / L",
+      "C. x − L / (7cb)"
+    ],
+    answer: "A"
+  },
+  {
+    question: "64ʸ = 64, what does y equal? 若 64ʸ = 64，則 y 為？",
+    options: [
+      "A. 1",
+      "B. 0",
+      "C. 0.5"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Simplify 3a − 2b + 6a − 3b − 2a. 化簡：3a − 2b + 6a − 3b − 2a。",
+    options: [
+      "A. 7a − 5b",
+      "B. 7a + 5b",
+      "C. 7a + b"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Simplify 3x − 2xy − 3y + 5xy − 2x + 2y. 化簡：3x − 2xy − 3y + 5xy − 2x + 2y。",
+    options: [
+      "A. x + 3xy − y",
+      "B. 5x + 3xy − y",
+      "C. x − 3xy + y"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Simplify 5(x − 2y) + 3(2y − x). 化簡：5(x − 2y) + 3(2y − x)。",
+    options: [
+      "A. 4x + 4y",
+      "B. 2x + 4y",
+      "C. 2x − 4y"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Simplify (a + b)(a − c)(b − c) / (b + a)(c − a)(c − b). 化簡：(a + b)(a − c)(b − c) / (b + a)(c − a)(c − b)。",
+    options: [
+      "A. -1",
+      "B. (a + b)(a − c)(b − c)",
+      "C. 1"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Make P the subject of I = PRT/100. 在公式 I = PRT/100 中，使 P 為主變數。",
+    options: [
+      "A. P = IRT/100",
+      "B. P = 100I/(RT)",
+      "C. P = 100RT/I"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Make u the subject of v² = u² + 2as. 在公式 v² = u² + 2as 中，使 u 為主變數。",
+    options: [
+      "A. u = v − 2as",
+      "B. u = √(v² − 2as)",
+      "C. u = √(v² + 2as)"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Remove the brackets and simplify: (x − y)(x − y). 展開並化簡：(x − y)(x − y)。",
+    options: [
+      "A. x² − 2xy − y²",
+      "B. x² + y²",
+      "C. x² − 2xy + y²"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Evaluate (3x² − 6xy) / (x − 2y). 計算：(3x² − 6xy) / (x − 2y)。",
+    options: [
+      "A. cannot be simplified further 無法再化簡",
+      "B. 3x − 3y",
+      "C. 3x"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Evaluate (3a + 2b)(2a − 3b). 計算：(3a + 2b)(2a − 3b)。",
+    options: [
+      "A. 6a² − 5ab − 6b²",
+      "B. 6a − 5ab − 6b",
+      "C. 6a² + 5ab − 6b²"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Solve the following equations for x: 4x + 8y = 64, 2x − 8y = 86. 解下列聯立方程求 x：4x + 8y = 64，2x − 8y = 86。",
+    options: [
+      "A. 125",
+      "B. 25",
+      "C. 5"
+    ],
+    answer: "B"
+  },
+  {
+    question: "11001 + 11001 = ?（二進位加法）",
+    options: [
+      "A. 50₂",
+      "B. 50₁₀",
+      "C. 50₈"
+    ],
+    answer: "B"
+  },
+  {
+    question: "100000 in binary is what number in decimal? 二進位 100000 相當於十進位多少？",
+    options: [
+      "A. 32",
+      "B. 16",
+      "C. 64"
+    ],
+    answer: "A"
+  },
+  {
+    question: "D in hexadecimal is what number in decimal? 十六進位 D 等於十進位多少？",
+    options: [
+      "A. 17",
+      "B. 13",
+      "C. 8"
+    ],
+    answer: "B"
+  },
+  {
+    question: "10101₂ + 11001₂ = ?",
+    options: [
+      "A. 46₁₀",
+      "B. 46₈",
+      "C. 46₂"
+    ],
+    answer: "A"
+  },
+  {
+    question: "What is 738 in binary coded decimal (BCD)? 十進位 738 的 BCD（二進位碼化十進位）表示為？",
+    options: [
+      "A. 1011110010",
+      "B. 111100010",
+      "C. 11100111000"
+    ],
+    answer: "C"
+  },
+  {
+    question: "(A + B)⁴ / (A + B)² = ?",
+    options: [
+      "A. (A + B)⁶",
+      "B. (A + B)²",
+      "C. A + B"
+    ],
+    answer: "B"
+  },
+  {
+    question: "log 9 − log 3 = ?",
+    options: [
+      "A. log 6",
+      "B. log 3",
+      "C. log 9"
+    ],
+    answer: "B"
+  },
+  {
+    question: "In the formula a = (X + B) / y, what is y equal to? 已知 a = (X + B) / y，求 y。",
+    options: [
+      "A. (a + X) / B",
+      "B. (X − B) / a",
+      "C. (X + B) / a"
+    ],
+    answer: "C"
+  },
+  {
+    question: "6⁷ divided by 12⁷ is equal to? 計算 6⁷ ÷ 12⁷。",
+    options: [
+      "A. 1/2",
+      "B. 1/20",
+      "C. 1/128"
+    ],
+    answer: "C"
+  },
+  {
+    question: "If 2x − 8y = 14 and 4x + 8y = 16, then x = ?",
+    options: [
+      "A. −1/2",
+      "B. 5",
+      "C. 3"
+    ],
+    answer: "B"
+  },
+  {
+    question: "2x − 3 = 4, x = ?",
+    options: [
+      "A. 7",
+      "B. −3",
+      "C. 3.50"
+    ],
+    answer: "C"
+  },
+  {
+    question: "V = (a + b) r², find a. 已知 V = (a + b) r²，求 a。",
+    options: [
+      "A. V − r² − b",
+      "B. (V − b) / r²",
+      "C. V / r² − b"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Make m the subject of the formula y = mx + c. 在 y = mx + c 中，將 m 作為主變數。",
+    options: [
+      "A. (y − x) / c",
+      "B. (y − c) / x",
+      "C. (y + c) / x"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Make x the subject of the formula y = mx + c. 在 y = mx + c 中，將 x 作為主變數。",
+    options: [
+      "A. (y − c) / m",
+      "B. (y − c) / m （同 A）",
+      "C. (y − m) / c"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Make c the subject of the formula y = mx + c. 在 y = mx + c 中，將 c 作為主變數。",
+    options: [
+      "A. y − mx",
+      "B. mx − y",
+      "C. y + mx"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Octal is to the base of __. 八進位制是以幾為底？",
+    options: [
+      "A. 2",
+      "B. 16",
+      "C. 8"
+    ],
+    answer: "C"
+  },
+  {
+    question: "101110 in binary is what in base 10? 二進位 101110 等於十進位多少？",
+    options: [
+      "A. 46（base 8）",
+      "B. 46（base 2）",
+      "C. 46（base 10）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is octal 13 in base 10? 八進位 13 等於十進位多少？",
+    options: [
+      "A. 11",
+      "B. 5",
+      "C. 4"
+    ],
+    answer: "A"
+  },
+  {
+    question: "What type of equation is this? ax² + bx + c = 0。此方程 ax² + bx + c = 0 稱為？",
+    options: [
+      "A. Quadratic equation 二次方程",
+      "B. Polynomic equation 多項式方程",
+      "C. Gradient of the line 直線斜率式"
+    ],
+    answer: "A"
+  },
+  {
+    question: "What is (X² × X³)³ ?",
+    options: [
+      "A. X³⁶",
+      "B. X¹⁵",
+      "C. X¹⁰"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Hexadecimal is base __. 十六進位制是以幾為底？",
+    options: [
+      "A. 16",
+      "B. 8",
+      "C. 2"
+    ],
+    answer: "A"
+  },
+  {
+    question: "y = mx + c can also be written as (solve for x). 將 y = mx + c 改寫成 x = ?",
+    options: [
+      "A. x = (y − c) / m",
+      "B. x = y/m + c",
+      "C. x = y/m − c"
+    ],
+    answer: "A"
+  },
+  {
+    question: "(x + y)² ÷ (x + y)⁸ has a base and exponent of: (x + y)² ÷ (x + y)⁸ 的結果為？",
+    options: [
+      "A. (x + y)¹⁰",
+      "B. (x + y)⁻⁶",
+      "C. (x + y)¹/⁴"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Rewrite with a positive index: z⁻² and x⁻³. 將 z⁻² 與 x⁻³ 改寫為正指數形式。",
+    options: [
+      "A. (z x²)²；以及 x³",
+      "B. 1/z² 與 1/x³",
+      "C. z/2²；以及 1/x"
+    ],
+    answer: "B"
+  },
+  {
+    question: "10011₂ = ?（轉為十進位）",
+    options: [
+      "A. 29₂",
+      "B. 19₁₀",
+      "C. 35₁₀"
+    ],
+    answer: "B"
+  },
+  {
+    question: "y = 2x + 4, when x = −1, y = ? 若 y = 2x + 4，x = −1 時，y =？",
+    options: [
+      "A. 4",
+      "B. 2",
+      "C. 0.5"
+    ],
+    answer: "B"
+  },
+  {
+    question: "What is 011100001₂ in octal? 二進位 011100001₂ 等於幾進位八進位數？",
+    options: [
+      "A. 341",
+      "B. 324",
+      "C. 452"
+    ],
+    answer: "A"
+  },
+  {
+    question: "BCD (Binary Coded Decimal) uses which base? BCD 編碼是屬於哪一種基底？",
+    options: [
+      "A. base 8",
+      "B. base 2",
+      "C. base 10"
+    ],
+    answer: "B"
+  },
+  {
+    question: "The characteristic of log 0.698 is: log 0.698 的階數（characteristic）為？",
+    options: [
+      "A. 1",
+      "B. −1",
+      "C. −2"
+    ],
+    answer: "B"
+  },
+  {
+    question: "log 59,000 is equal to: log 59,000 大約等於？",
+    options: [
+      "A. 0.77452",
+      "B. 4.7745",
+      "C. 5.77452"
+    ],
+    answer: "B"
+  },
+  {
+    question: "If 2x² + kx − 8 = 0 has two equal real roots, then: 若 2x² + kx − 8 = 0 有兩個相等的實根，則 k？",
+    options: [
+      "A. k is an imaginary number k 為虛數",
+      "B. k = ±8",
+      "C. k = −8"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Given the log of A exceeds that of B by 4, which is correct? 已知 log A 比 log B 大 4，以下何者正確？",
+    options: [
+      "A. A 是 B 的 4000 倍",
+      "B. A 是 B 的 10,000 倍",
+      "C. A 是 B 的 1000 倍"
+    ],
+    answer: "B"
+  },
+  {
+    question: "What is 11110001₂ in octal? 二進位 11110001₂ 等於多少八進位？",
+    options: [
+      "A. 72",
+      "B. 684",
+      "C. 361"
+    ],
+    answer: "C"
+  },
+  {
+    question: "If x² − 3 = 6, then x = ?",
+    options: [
+      "A. ±3",
+      "B. 18",
+      "C. ±2"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Given s = 0, solve s = ut + ½at² for t. 在 s = ut + ½at² 且 s = 0 的情況下，求 t 的兩個解。",
+    options: [
+      "A. t = 0, t = 2u/a",
+      "B. t = 0, t = a/2u",
+      "C. t = 0, t = −2u/a"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is log 9 − log 3 + log 4 ?",
+    options: [
+      "A. log 12",
+      "B. log 10",
+      "C. log 16"
+    ],
+    answer: "A"
+  },
+  {
+    question: "What is log 0.1 ?",
+    options: [
+      "A. −0.1",
+      "B. 0",
+      "C. −1"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is log 1 ?",
+    options: [
+      "A. 10",
+      "B. 1",
+      "C. 0"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is log 20000.2 ?",
+    options: [
+      "A. 0.47892",
+      "B. 4.7892",
+      "C. 47.892"
+    ],
+    answer: "B"
+  },
+  {
+    question: "A quadratic equation has real roots x = 6 and x = 9. Determine the equation. 一個二次方程的實根為 6 和 9，求其方程式。",
+    options: [
+      "A. x² − 54x + 15 = 0",
+      "B. x² − 15x + 54 = 0",
+      "C. x² + 15x − 15 = 0"
+    ],
+    answer: "B"
+  },
+  {
+    question: "What is 10111₂ − 1001₂ ?",
+    options: [
+      "A. 1100₂",
+      "B. 1110₂",
+      "C. 1010₂"
+    ],
+    answer: "B"
+  },
+  {
+    question: "What is the characteristic of 5.74 ? 5.74 的對數（以 10 為底）的階數為？",
+    options: [
+      "A. 1",
+      "B. −1",
+      "C. 0"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is log 6³ ?",
+    options: [
+      "A. 6 log 3",
+      "B. log 18",
+      "C. 3 log 6"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Solve for x: 5x − 7 = 3。解方程：5x − 7 = 3。",
+    options: [
+      "A. x = −4/5",
+      "B. x = −2",
+      "C. x = 2"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Octal is the word given to what base? 「Octal」這個字代表幾進位？",
+    options: [
+      "A. 8",
+      "B. 2",
+      "C. 16"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Which of the following is a quadratic equation? 下列何者為二次方程？",
+    options: [
+      "A. 3x² + 2x + 1 = 0",
+      "B. 3x + 2y + 4 = 0",
+      "C. 3x³ + 3x − 2 = 0"
+    ],
+    answer: "A"
+  },
+  {
+    question: "What is log 1000 ?",
+    options: [
+      "A. 2.0787",
+      "B. 1.0787",
+      "C. 3.0787"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is log (AB) ?",
+    options: [
+      "A. log (A + B)",
+      "B. log A + log B",
+      "C. log A − log B"
+    ],
+    answer: "B"
+  },
+  {
+    question: "What is log (A/B) ?",
+    options: [
+      "A. log A + log B",
+      "B. log A − log B",
+      "C. log (A − B)"
+    ],
+    answer: "B"
+  },
+  {
+    question: "log 100 + 2 = ?",
+    options: [
+      "A. 4",
+      "B. log 200",
+      "C. log 200 （重複）"
+    ],
+    answer: "A"
+  },
+  {
+    question: "log 100 / 2 = ?",
+    options: [
+      "A. log 200",
+      "B. log 98",
+      "C. 1"
+    ],
+    answer: "C"
+  },
+  {
+    question: "log 100 + cos 60° = ?",
+    options: [
+      "A. 0.25",
+      "B. 25",
+      "C. 2.5"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is the external angle indicated on the figure below? 圖中標示的外角大小為何？",
+    options: [
+      "A. 60°",
+      "B. 120°",
+      "C. 30°"
+    ],
+    answer: "B"
+  },
+  {
+    question: "If a wheel of radius R revolves 1/2 a turn, how many radians does it turn through? 半徑為 R 的輪子轉半圈，轉過多少弧度？",
+    options: [
+      "A. 2π radians（二倍π 弧度）",
+      "B. 2R² radians（二倍 R² 弧度）",
+      "C. π radians（π 弧度）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "If there are two similar angles in a right triangle, these angles are: 在一個直角三角形中，若有兩個相似角，這兩角是？",
+    options: [
+      "A. supplementary（補角）",
+      "B. subordinate",
+      "C. complementary（餘角）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "An equilateral triangle has: 等邊三角形具有：",
+    options: [
+      "A. no equal sides（沒有相等的邊）",
+      "B. 2 equal sides（兩邊相等）",
+      "C. 3 equal sides（三邊皆相等）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The three angles of a triangle summed together equal: 一個三角形內三角的總和為：",
+    options: [
+      "A. 90°",
+      "B. 180°",
+      "C. 360°"
+    ],
+    answer: "B"
+  },
+  {
+    question: "The circumference of a circle is found by: 圓的周長可由下列何者求得？",
+    options: [
+      "A. multiplying the diameter by 3.142（直徑 × 3.142）",
+      "B. multiplying the radius by 3.142（半徑 × 3.142）",
+      "C. dividing the diameter by 3.142（直徑 ÷ 3.142）"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Calculate the height of an obtuse triangle whose base is X cm and the area is Y cm². 底邊為 X 公分、面積為 Y 平方公分的鈍角三角形，其高為？",
+    options: [
+      "A. Y × 2 / X",
+      "B. (Y + X) / 2",
+      "C. Y × 2 × X"
+    ],
+    answer: "A"
+  },
+  {
+    question: "A right-angled triangle has sides of 3 inches and 4 inches, what will the third side be? 一直角三角形兩邊長為 3 吋與 4 吋，第三邊長為？",
+    options: [
+      "A. 5 inches",
+      "B. 5.5 inches",
+      "C. 6 inches"
+    ],
+    answer: "A"
+  },
+  {
+    question: "To work out the circumference of a circle use: 要計算圓的周長，應使用：",
+    options: [
+      "A. D × 0.3142",
+      "B. D × 3.142",
+      "C. D − 3.142"
+    ],
+    answer: "B"
+  },
+  {
+    question: "An equilateral triangle has: 等邊三角形具有：",
+    options: [
+      "A. two equal sides（兩邊相等）",
+      "B. no equal sides（沒有相等的邊）",
+      "C. three equal sides（三邊皆相等）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "A quadrilateral with only two parallel sides is a: 僅有一組對邊平行的四邊形稱為：",
+    options: [
+      "A. Trapezium（英式梯形）",
+      "B. Trapezoid（美式梯形）",
+      "C. Rhombus（菱形）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "A triangle with equal angles is called: 一個三角形三個角都相等，稱為：",
+    options: [
+      "A. right angled triangle（直角三角形）",
+      "B. equilateral（等邊三角形）",
+      "C. isosceles（三角形，兩邊相等）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Two gears are in mesh, one is larger than the other, the smaller gear rotates: 兩齒輪嚙合，一大一小，小齒輪的轉速為？",
+    options: [
+      "A. at a faster speed（轉得較快）",
+      "B. at a lower speed（轉得較慢）",
+      "C. at the same speed（轉速相同）"
+    ],
+    answer: "A"
+  },
+  {
+    question: "The name given to this shape (with opposite sides parallel). 下圖此種四邊形稱為？（兩組對邊互相平行）",
+    options: [
+      "A. Trapezoid（梯形）",
+      "B. Parallelogram（平行四邊形）",
+      "C. Rhombus（菱形）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "A triangle with equal sides is: 所有邊長都相等的三角形是：",
+    options: [
+      "A. isosceles（等腰三角形）",
+      "B. equilateral（等邊三角形）",
+      "C. acute（銳角三角形）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Two gears are in mesh, one has twice the number of teeth as the other. 兩齒輪嚙合，其中一個齒數是另一個的兩倍。",
+    options: [
+      "A. the two gears rotate at the same speed（兩齒輪轉速相同）",
+      "B. the gear with fewer teeth rotates faster（齒數較少的轉得較快）",
+      "C. the gear with fewer teeth rotates slower（齒數較少的轉得較慢）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Locus points plotted equidistant from a central point represent: 所有與中心點距離相同的點所形成的軌跡是：",
+    options: [
+      "A. circumference（圓周）",
+      "B. diameter（直徑）",
+      "C. radius（半徑）"
+    ],
+    answer: "A"
+  },
+  {
+    question: "A circle contains: 一個完整圓包含多少弧度？",
+    options: [
+      "A. 2πr radians",
+      "B. 2π radians",
+      "C. 4π radians"
+    ],
+    answer: "B"
+  },
+  {
+    question: "An oblique pyramid is one which has its axis: 斜角金字塔（斜錐體）的軸線相對於底面的關係為：",
+    options: [
+      "A. perpendicular to its base（垂直於底面）",
+      "B. not perpendicular to its base（不垂直於底面）",
+      "C. parallel to its base（平行於底面）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "An input gear has 20 teeth and the output gear has 120 teeth. If the input gear rotates 360°, the output gear will rotate: 主動齒輪 20 齒，從動齒輪 120 齒，若主動齒輪轉 360°，從動齒輪轉多少度？",
+    options: [
+      "A. 60°",
+      "B. 45°",
+      "C. 90°"
+    ],
+    answer: "A"
+  },
+  {
+    question: "A line from the centre of a circle is called: 從圓心連到圓周上的線段稱為：",
+    options: [
+      "A. diameter（直徑）",
+      "B. its segment（弓形）",
+      "C. radius（半徑）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Give the name of the triangle which has two sides equal in length and two equal angles. 兩邊等長且有兩個角相等的三角形稱為：",
+    options: [
+      "A. Equilateral（等邊三角形）",
+      "B. Isosceles（等腰三角形）",
+      "C. Obtuse（鈍角三角形）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "In an equilateral triangle, all of the angles are equal to: 在一個等邊三角形中，每一個角等於：",
+    options: [
+      "A. π / 3",
+      "B. π / 4",
+      "C. π / 2"
+    ],
+    answer: "A"
+  },
+  {
+    question: "What is an obtuse angle? 何謂鈍角？",
+    options: [
+      "A. greater than 180°（大於 180°）",
+      "B. less than 90°（小於 90°）",
+      "C. greater than 90° but less than 180°（大於 90° 而小於 180°）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "A congruent triangle has: 全等三角形具有：",
+    options: [
+      "A. same shape and size（形狀與大小都相同）",
+      "B. same size different shape（大小相同但形狀不同）",
+      "C. same shape different size（形狀相同但大小不同）"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Which shape has no parallel sides? 下列何者沒有平行邊？",
+    options: [
+      "A. Trapezoid（梯形）",
+      "B. Kite（風箏形）",
+      "C. Rhombus（菱形）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "The properties of a scalene triangle are: 不等邊三角形具有什麼性質？",
+    options: [
+      "A. acute angle（三個角皆為銳角）",
+      "B. all sides different lengths（所有邊長皆不同）",
+      "C. all sides are equal（所有邊長皆相等）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "What is the height of an oblique pyramid? 斜錐體的高度是如何量測？",
+    options: [
+      "A. The height is angled to the base（高度與底面成斜角）",
+      "B. The height is perpendicular to the base（高度垂直於底面）",
+      "C. The height is parallel to the sides（高度平行於側面）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "What is the value of x in the diagram shown?（圖中 x 角度）",
+    options: [
+      "A. 30°",
+      "B. 35°",
+      "C. 40°"
+    ],
+    answer: "B"
+  },
+  {
+    question: "How many degrees are there in the smaller of the segments, where AB is one sixth of AC? 若弧 AB 為 AC 的六分之一，較小弧所對的角為幾度？",
+    options: [
+      "A. 15°",
+      "B. 14.5°",
+      "C. 10°"
+    ],
+    answer: "A"
+  },
+  {
+    question: "In a parallelogram, if all the sides are of equal length and one angle is 90°, it is a: 若一平行四邊形四邊等長且其中一角為 90°，此圖形為：",
+    options: [
+      "A. rhomboid",
+      "B. quadrilateral（四邊形）",
+      "C. square（正方形）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "In a rhombus: 在菱形中：",
+    options: [
+      "A. all sides are different length with no angles 90°（邊長皆不同且無直角）",
+      "B. all sides are equal length with no angles 90°（四邊等長但沒有直角）",
+      "C. adjacent sides are different lengths with no angles 90°（相鄰邊長不同且無直角）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "An isosceles triangle has the following properties: 等腰三角形具有下列何種特性？",
+    options: [
+      "A. Two sides parallel（兩邊平行）",
+      "B. Three sides the same length（三邊相等）",
+      "C. Two sides the same length（兩邊等長）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "In an oblique triangle the axis is: 對『斜三角形』而言，其軸線相對於底邊為：",
+    options: [
+      "A. perpendicular to the base（垂直於底）",
+      "B. at a slant to the base（斜斜的，不垂直）",
+      "C. parallel to the base（平行於底）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "How far does a wheel of 7 m radius travel in one revolution? 半徑 7 公尺的輪子轉一圈，前進距離約為多少？",
+    options: [
+      "A. 14 m",
+      "B. 22 m",
+      "C. 44 m"
+    ],
+    answer: "C"
+  },
+  {
+    question: "For a scalene triangle which is true? 對於不等邊三角形，下列何者正確？",
+    options: [
+      "A. 2 sides are equal（有兩邊相等）",
+      "B. No 2 sides are equal（任兩邊皆不相等）",
+      "C. One angle is acute（只有一個角為銳角）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "A line to create a segment from the centre of a circle is a: 從圓心畫線到圓上形成一段弓形，其線段為：",
+    options: [
+      "A. radius（半徑）",
+      "B. diameter（直徑）",
+      "C. chord（弦）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "A shape with 4 equal sides and one 90° angle is a: 一個有四邊等長且有一個 90° 角的圖形是：",
+    options: [
+      "A. parallelogram（平行四邊形）",
+      "B. rhombus（菱形）",
+      "C. square（正方形）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "In a right angled triangle the longest side is 20 cm, the shortest side is 12 cm. What length is the last side? 一直角三角形斜邊長 20 cm、最短邊 12 cm，另一邊長度為？",
+    options: [
+      "A. 13.6 cm",
+      "B. 18 cm",
+      "C. 16 cm"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The sum of the internal angles of a triangle is: 三角形內角和為：",
+    options: [
+      "A. 180°",
+      "B. 2π radians",
+      "C. 360°"
+    ],
+    answer: "A"
+  },
+  {
+    question: "A triangle has angles 67° and 48°. The third angle is: 一三角形兩角為 67° 與 48°，第三角為？",
+    options: [
+      "A. 115°",
+      "B. 75°",
+      "C. 65°"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The sum of the angles of a polygon with n sides is: n 邊形內角和為：",
+    options: [
+      "A. 180 × (n − 2)",
+      "B. (n / 4) × 180",
+      "C. 60 × n"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Suppose the earth to be a real sphere with radius R. The arc distance from HK (N23) to the North pole is: 若地球為半徑 R 的球體，香港緯度約 N23，從香港到北極的弧長約為多少？",
+    options: [
+      "A. 0.9R",
+      "B. 2.2R",
+      "C. 1.2R"
+    ],
+    answer: "C"
+  },
+  {
+    question: "One radian is: 何謂一弧度？",
+    options: [
+      "A. angle at centre when arc = π",
+      "B. angle at centre when arc length equals the radius（圓心到圓周的弧長等於半徑時所夾的角）",
+      "C. 66.67°"
+    ],
+    answer: "B"
+  },
+  {
+    question: "How many degrees in π radians? π 弧度等於幾度？",
+    options: [
+      "A. 180°",
+      "B. 360°",
+      "C. 90°"
+    ],
+    answer: "A"
+  },
+  {
+    question: "The sum of the external angles of any polygon is: 任意多邊形的外角和為：",
+    options: [
+      "A. 180°",
+      "B. 540°",
+      "C. 360°"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Which of the 2 angles are called supplementary? 下列哪一組為補角？",
+    options: [
+      "A. 60° and 120°",
+      "B. 40° and 40°",
+      "C. 30° and 60°"
+    ],
+    answer: "A"
+  },
+  {
+    question: "An acute angle is: 何謂銳角？",
+    options: [
+      "A. less than 90°（小於 90°）",
+      "B. less than 180°（小於 180°）",
+      "C. more than 90°（大於 90°）"
+    ],
+    answer: "A"
+  },
+  {
+    question: "A straight line which goes from one point on the circumference to another is called: 連接圓周上兩點的線段稱為：",
+    options: [
+      "A. an arc（弧）",
+      "B. a tangent（切線）",
+      "C. a chord（弦）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is the name given to a quadrilateral with two pairs of adjacent sides equal and the diagonals intersect at right angles (not all sides equal)? 一種四邊形：有兩對相鄰邊相等、對角線互成直角，但四邊不全等，名稱為？",
+    options: [
+      "A. kite（風箏形）",
+      "B. parallelogram（平行四邊形）",
+      "C. rhombus（菱形）"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Find the size of the other two angles of an isosceles triangle with one angle of 100°. 一個等腰三角形其中一角為 100°，求另外兩角。",
+    options: [
+      "A. 40°, 40°",
+      "B. 30°, 30°",
+      "C. 100°, 20°"
+    ],
+    answer: "A"
+  },
+  {
+    question: "A triangle always has: 三角形永遠具有：",
+    options: [
+      "A. exactly one right angle（恰有一個直角）",
+      "B. at least two acute angles（至少兩個銳角）",
+      "C. exactly two acute angles（恰有兩個銳角）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "The locus of a point which stays the same distance from a given point is: 與某固定點距離保持不變之點的軌跡為：",
+    options: [
+      "A. a circle（圓）",
+      "B. a parallel line（平行線）",
+      "C. an ellipse（橢圓）"
+    ],
+    answer: "A"
+  },
+  {
+    question: "In the following equation what is the y-intercept? 4y = 2x + 8. 在下列方程式 4y = 2x + 8 中，y 截距為何？",
+    options: [
+      "A. 2",
+      "B. 4",
+      "C. 8"
+    ],
+    answer: "A"
+  },
+  {
+    question: "How many times does the x-axis get crossed when y = x² - 3? 當 y = x² - 3 時，圖形與 x 軸相交幾次？",
+    options: [
+      "A. 3 times（三次）",
+      "B. 1 time（一次）",
+      "C. 2 times（兩次）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "On a graph what is the intercept of y when 4y = x + 8? 當 4y = x + 8 時，y 截距為何？",
+    options: [
+      "A. 4",
+      "B. 8",
+      "C. 2"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is the equation of the line shown? 已知圖中的直線，請選出其方程式。",
+    options: [
+      "A. y = 2x + 2",
+      "B. y = -2 - x",
+      "C. y = x - 2"
+    ],
+    answer: "B"
+  },
+  {
+    question: "For the graph points (9, 3) and (3, 1), what is the slope? 經過點 (9,3) 與 (3,1) 的直線，其斜率為？",
+    options: [
+      "A. 9/5",
+      "B. 1/3",
+      "C. 3/1"
+    ],
+    answer: "B"
+  },
+  {
+    question: "A straight line graph has the equation 3y = 12x − 3. What is the gradient? 直線方程式 3y = 12x − 3 的斜率為何？",
+    options: [
+      "A. 1/4",
+      "B. 4/1",
+      "C. 3/4"
+    ],
+    answer: "B"
+  },
+  {
+    question: "For an equation 2y = 5x + 3, what is the gradient? 對方程式 2y = 5x + 3，其直線斜率為？",
+    options: [
+      "A. 3/5x",
+      "B. 5/2",
+      "C. (5x + 3)/2"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Using cosine to find the angle of a triangle, which statement is true? 使用餘弦（cos）來求三角形角度時，下列哪一式正確？",
+    options: [
+      "A. Opposite / Hypotenuse（對邊 / 斜邊）",
+      "B. Opposite / Adjacent（對邊 / 鄰邊）",
+      "C. Adjacent / Hypotenuse（鄰邊 / 斜邊）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What type of equation is y = x² + 9x + 14? y = x² + 9x + 14 是哪一類方程？",
+    options: [
+      "A. Quadratic（二次方程）",
+      "B. Circular（圓方程）",
+      "C. Exponential（指數方程）"
+    ],
+    answer: "A"
+  },
+  {
+    question: "2y = 5x + 3. What is the gradient? 對 2y = 5x + 3，斜率為何？",
+    options: [
+      "A. 2/5",
+      "B. 5/2 + 3",
+      "C. 5/2"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is the slope between the points (3,1) and (9,3)? 經過 (3,1) 與 (9,3) 的直線，其斜率為？",
+    options: [
+      "A. 1/3",
+      "B. 3/1",
+      "C. 2"
+    ],
+    answer: "A"
+  },
+  {
+    question: "What is commonly referred to as the law of a straight line? 下列何者是直線的標準方程式？",
+    options: [
+      "A. y = x² + 180",
+      "B. The line must pass through the 180° datum（直線必過 180° 基準）",
+      "C. y = mx + c"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The y-intercept of 4y = 4x + 8 is: 方程式 4y = 4x + 8 的 y 截距為？",
+    options: [
+      "A. 4",
+      "B. 8",
+      "C. 2"
+    ],
+    answer: "C"
+  },
+  {
+    question: "A straight line passes through the two points (1,4) and (6,1). What is the gradient of the line? 經過 (1,4) 與 (6,1) 的直線，其斜率為？",
+    options: [
+      "A. 3/5",
+      "B. -3/5",
+      "C. 2/5"
+    ],
+    answer: "B"
+  },
+  {
+    question: "What is the equation of a straight line with gradient m and intercept on the y axis c? 斜率為 m、y 截距為 c 的直線方程為？",
+    options: [
+      "A. y = mx + c",
+      "B. x = y + mc",
+      "C. y = cx + m"
+    ],
+    answer: "A"
+  },
+  {
+    question: "What is the gradient of the straight line whose equation is 2y + 3x = 6? 對方程式 2y + 3x = 6，其直線斜率為？",
+    options: [
+      "A. 3",
+      "B. 3/2",
+      "C. -3/2"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Two lines with equations y = 3x − 6 and y = 3x + 4: 對於直線 y = 3x − 6 與 y = 3x + 4，下列何者正確？",
+    options: [
+      "A. meet when y = 3（在 y = 3 相交）",
+      "B. are at right angles（互相垂直）",
+      "C. are parallel（互相平行）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is the equation of a straight line that passes through the two points (0,0) and (3,2)? 經過 (0,0) 與 (3,2) 的直線方程為？",
+    options: [
+      "A. y = 3x + 2",
+      "B. y = 2x + 3",
+      "C. y = 2x/3"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The line with equation x = 3 is: 方程式 x = 3 表示的直線為：",
+    options: [
+      "A. at 45° to both axes（與兩軸皆成 45°）",
+      "B. parallel to the x-axis（平行於 x 軸）",
+      "C. parallel to the y-axis（平行於 y 軸）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "What is the equation of the graph shown? 下圖直線的方程式為？",
+    options: [
+      "A. y = -2",
+      "B. x = -2",
+      "C. y = 2x"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Use the graphs to solve the simultaneous equations y = x + 2 and 3y + 2x = 6. 利用圖形解聯立方程 y = x + 2 及 3y + 2x = 6，交點座標為？",
+    options: [
+      "A. x = 2, y = 0",
+      "B. x = 0, y = 2",
+      "C. x = 0, y = 0"
+    ],
+    answer: "B"
+  },
+  {
+    question: "The plot of the equation y = 1/x is a: 方程 y = 1/x 的圖形為：",
+    options: [
+      "A. straight line（直線）",
+      "B. curve with one turning point（有一個轉折的曲線）",
+      "C. curve with two turning points（有兩個轉折的曲線）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Which of the graphs shown is given by the equation y = x² + 3? 下列哪一個圖形對應方程 y = x² + 3？",
+    options: [
+      "A. Graph A",
+      "B. Graph B",
+      "C. Graph C"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Which of the graphs shown is given by the equation 2y = 4x + 6? 下列哪一個圖形對應方程 2y = 4x + 6？",
+    options: [
+      "A. Graph A",
+      "B. Graph B",
+      "C. Graph C"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Which of the graphs shown is given by the equation y = 2x³ + 4x + 3? 下列哪一個圖形對應方程 y = 2x³ + 4x + 3？",
+    options: [
+      "A. Graph A",
+      "B. Graph B",
+      "C. Graph C"
+    ],
+    answer: "C"
+  },
+
+  // ===== 1.3c Geometry & Trigonometry =====
+  {
+    question: "What is the tangent of 90°? tan 90° 的值為何？",
+    options: [
+      "A. Negative infinity（負無限大）",
+      "B. 0",
+      "C. Positive infinity（正無限大）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Two angles of a triangle are 68° and 32°. Therefore the third angle must be: 一個三角形兩角為 68° 與 32°，第三角為？",
+    options: [
+      "A. 114°",
+      "B. 80°",
+      "C. 63°"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Which of the following formulae are correct for a right triangle? 下列何者為直角三角形的正確關係式？",
+    options: [
+      "A. A² = C² + B²",
+      "B. B² = C² + A²",
+      "C. C² = A² + B²"
+    ],
+    answer: "C"
+  },
+  {
+    question: "In a right-angled triangle the other two angles are both 45°. The length of the opposite side can be calculated by: 一個直角三角形另外兩角皆為 45°，求對邊長度應使用下列何式？",
+    options: [
+      "A. cos 45° × adjacent（cos45° × 鄰邊）",
+      "B. cos 45° × adjacent（同 A）",
+      "C. sin 45° × hypotenuse（sin45° × 斜邊）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Sin θ = ? 在圖示中，sin θ 等於？",
+    options: [
+      "A. A / C",
+      "B. B / C",
+      "C. C / A"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Cos A = ? Cos A 的值為？",
+    options: [
+      "A. 1.2",
+      "B. 0.6",
+      "C. 0.8"
+    ],
+    answer: "C"
+  },
+  {
+    question: "In a right-angle triangle, the sine of an angle is: 在直角三角形中，一角的正弦值為：",
+    options: [
+      "A. opposite divided by hypotenuse（對邊 / 斜邊）",
+      "B. adjacent divided by hypotenuse（鄰邊 / 斜邊）",
+      "C. opposite divided by adjacent（對邊 / 鄰邊）"
+    ],
+    answer: "A"
+  },
+  {
+    question: "In a right-angle triangle, the tangent of an angle is: 在直角三角形中，一角的正切值為：",
+    options: [
+      "A. opposite divided by adjacent（對邊 / 鄰邊）",
+      "B. adjacent divided by hypotenuse（鄰邊 / 斜邊）",
+      "C. opposite divided by hypotenuse（對邊 / 斜邊）"
+    ],
+    answer: "A"
+  },
+  {
+    question: "In a right-angle triangle, the cosine of an angle is: 在直角三角形中，一角的餘弦值為：",
+    options: [
+      "A. opposite divided by hypotenuse（對邊 / 斜邊）",
+      "B. adjacent divided by hypotenuse（鄰邊 / 斜邊）",
+      "C. opposite divided by adjacent（對邊 / 鄰邊）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "On a right angle triangle, the longest side is 20 cm and the shortest is 12 cm. What is the other side? 一直角三角形斜邊 20 cm、最短邊 12 cm，另一邊長為？",
+    options: [
+      "A. 13 cm",
+      "B. 18 cm",
+      "C. 16 cm"
+    ],
+    answer: "C"
+  },
+  {
+    question: "In a right triangle, SINE θ = ? 在直角三角形中，sin θ 等於？",
+    options: [
+      "A. adjacent / hypotenuse（鄰邊 / 斜邊）",
+      "B. opposite / adjacent（對邊 / 鄰邊）",
+      "C. opposite / hypotenuse（對邊 / 斜邊）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Complete the following: SINE a = ? 下列何者為 sin a？",
+    options: [
+      "A. a² × b²",
+      "B. opposite side / hypotenuse side（對邊 / 斜邊）",
+      "C. adjacent side / opposite side（鄰邊 / 對邊）"
+    ],
+    answer: "B"
+  },
+  {
+    question: "A sector with angle A is subtended at the centre of a circle. Area of the sector is proportional to: 圓心角為 A 的扇形，其面積與下列何者成正比？",
+    options: [
+      "A. Angle A",
+      "B. cos A",
+      "C. sin A"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Starting from zero amplitude, the cosine curve repeats itself between: 從振幅為 0 的位置開始計算，cos 曲線在下列哪一區間完成一個週期？",
+    options: [
+      "A. −180° to 180°",
+      "B. −90° to 270°",
+      "C. 0° to 360°"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Choose the correct statement: 選出正確的三角恆等式：",
+    options: [
+      "A. cosec²x − cot²x = 1",
+      "B. sec²x + tan²x = 1",
+      "C. cos²x − sin²x = 1"
+    ],
+    answer: "A"
+  },
+  {
+    question: "A right angled triangle has the two shortest sides of 5 cm and 12 cm. What is the length of the longest side? 一個直角三角形兩直角邊為 5 cm 和 12 cm，斜邊長為？",
+    options: [
+      "A. 17 cm",
+      "B. 15 cm",
+      "C. 13 cm"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The trigonometrical ratio adjacent divided by hypotenuse is: 三角比『鄰邊 / 斜邊』代表：",
+    options: [
+      "A. Sine（正弦）",
+      "B. Tangent（正切）",
+      "C. Cosine（餘弦）"
+    ],
+    answer: "C"
+  },
+  {
+    question: "57.3 degrees is equal to: 57.3 度大約等於幾弧度？",
+    options: [
+      "A. 2 radians",
+      "B. 1 radian",
+      "C. π radians"
+    ],
+    answer: "B"
+  },
+  {
+    question: "A right angled triangle has sides 6 cm, 8 cm and 10 cm. What is the sine of the angle between the 8 cm side and the 10 cm side? 一直角三角形三邊為 6 cm、8 cm、10 cm，8 cm 與 10 cm 夾角的正弦值為？",
+    options: [
+      "A. 0.75",
+      "B. 0.6",
+      "C. 0.8"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Sin 90° = ? sin 90° 的值為？",
+    options: [
+      "A. Infinity（無限大）",
+      "B. 1",
+      "C. 0"
+    ],
+    answer: "B"
+  },
+  {
+    question: "What size of angle has the same ratio for both the sine and the cosine? 哪一個角度的正弦值與餘弦值相同？",
+    options: [
+      "A. 60°",
+      "B. 0°",
+      "C. 45°"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Sin A is equal to: sin A 等於？（依題目中的三角形標記）",
+    options: [
+      "A. 3/4",
+      "B. 3/5",
+      "C. 4/5"
+    ],
+    answer: "B"
+  },
+  {
+    question: "If cos 60° is 0.5, what is sin 30°? 若 cos 60° = 0.5，則 sin 30° = ?",
+    options: [
+      "A. 0.5",
+      "B. None of the above（以上皆非）",
+      "C. 0.866"
+    ],
+    answer: "A"
+  },
+  {
+    question: "5/16 + 3/32 expressed as a single fraction is: 5/16 + 3/32 合併成單一分數為？",
+    options: [
+      "A. 13/32",
+      "B. 8/48",
+      "C. 15/512"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Dividing 4 1/2 by 2 1/6 gives the answer of: 4 1/2 ÷ 2 1/6 的結果為？",
+    options: [
+      "A. 2 1/3",
+      "B. 25/12",
+      "C. 54/26"
+    ],
+    answer: "C"
+  },
+  {
+    question: "10000 expressed as ten raised to a power would be: 10000 寫成 10 的冪次為？",
+    options: [
+      "A. 10⁵",
+      "B. 10³",
+      "C. 10⁴"
+    ],
+    answer: "C"
+  },
+  {
+    question: "60 mm expressed as a percentage of 3 metres is: 60 mm 佔 3 公尺的百分比為？",
+    options: [
+      "A. 2%",
+      "B. 1.8%",
+      "C. 0.5%"
+    ],
+    answer: "A"
+  },
+  {
+    question: "The average speed of an aircraft that travels 7200 miles in 12 hours is: 一架飛機 12 小時飛行 7200 英里，其平均速度為？",
+    options: [
+      "A. 864 MPH",
+      "B. 167 MPH",
+      "C. 600 MPH"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The sum of complex numbers (a + bi) and (a' + b'i) is: 複數 a+bi 與 a'+b'i 相加的結果為？",
+    options: [
+      "A. (a + b) + (a' + b')i",
+      "B. (a + a')i + (b + b')",
+      "C. (a + a') + (b + b')i"
+    ],
+    answer: "A"
   }
 ]
 
