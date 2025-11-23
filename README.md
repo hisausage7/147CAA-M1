@@ -336,7 +336,7 @@
 
   { question: "Add together; 3/4, 5/16, 7/8 and 0.375", 
     options: ["A. 2-1/8", "B. 2-1/4", "C. 2-5/16"], 
-    answer: "C"
+    answer: "C" },
 
   { question: "An aircraft has 1800 kilos of fuel, 45% is in the centre tank, 25% is in the left wing. How much fuel is in the right wing?", 
     options: ["A. 540 kilos", "B. 450 kilos", "C. 940 kilos"], 
@@ -352,11 +352,11 @@
 
   { question: "Determine the following 11/16 + 5/8", 
     options: ["A. 5-5/128", "B. 1-5/16", "C. 1-1/10"], 
-    answer: "A"
+    answer: "A" },
 
   { question: "Determine the following: 9/4 + 5/12 + 1 3/8", 
     options: ["A. 4-1/24", "B. 22-5/24", "C. 4-1/12"], 
-    answer: "A"
+    answer: "A" },
 
   { question: "Determine10 x 23 + 10 x 25", 
     options: ["A. 32,008,000", "B. 520", "C. 400"], 
@@ -472,8 +472,7 @@
     {
     question: "To find the area of a circle use the formula",
     options: ["A. πr2", "B. 2πr", "C. 2πd"],
-    answer: "A"
-  },
+    answer: "A" },
   {
     question: "What are the next two prime numbers in the following list? 2 3 5 7 11 ?",
     options: ["A. 13 19", "B. 13 17", "C. 13 15"],
