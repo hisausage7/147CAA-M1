@@ -903,7 +903,7 @@
   {
     question: "一球半徑4公分,球體面積為何?",
     options: ["A. 8π", "B. 64π", "C. 16π"],
-    answer: "C"
+    answer: "B"
   },
   {
     question: "求二進位10111 - 1001 =?",
