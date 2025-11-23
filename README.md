@@ -335,8 +335,8 @@
     answer: "C" },
 
   { question: "Add together; 3/4, 5/16, 7/8 and 0.375", 
-    options: ["A. 21/8", "B. 21/4", "C. 25/16"], 
-    answer: null }, // 正確值應為 37/16
+    options: ["A. 2-1/8", "B. 2-1/4", "C. 2-5/16"], 
+    answer: "C"
 
   { question: "An aircraft has 1800 kilos of fuel, 45% is in the centre tank, 25% is in the left wing. How much fuel is in the right wing?", 
     options: ["A. 540 kilos", "B. 450 kilos", "C. 940 kilos"], 
@@ -351,12 +351,12 @@
     answer: "B" },
 
   { question: "Determine the following 11/16 + 5/8", 
-    options: ["A. 55/128", "B. 15/16", "C. 11/10"], 
-    answer: null }, // 正確值應為 21/16
+    options: ["A. 5-5/128", "B. 1-5/16", "C. 1-1/10"], 
+    answer: "A"
 
   { question: "Determine the following: 9/4 + 5/12 + 1 3/8", 
-    options: ["A. 41/24", "B. 225/24", "C. 41/12"], 
-    answer: null }, // 正確值應為 97/24
+    options: ["A. 4-1/24", "B. 22-5/24", "C. 4-1/12"], 
+    answer: "A"
 
   { question: "Determine10 x 23 + 10 x 25", 
     options: ["A. 32,008,000", "B. 520", "C. 400"], 
@@ -899,16 +899,6 @@
     question: "簡化 3x-2xy-3y+5xy-2x+2y.",
     options: ["A. x+3xy-y", "B. 5x+3xy-y", "C. x-3xy+y"],
     answer: "A"
-  },
-  {
-    question: "三角形ABC，∠A= 60°、內心為I，∠BIC= 1/2∠A = 30°",
-    options: [],
-    answer: ""
-  },
-  {
-    question: "一球體直徑為4，面積為?",
-    options: ["A. 4π"],
-    answer: ""
   },
   {
     question: "一球半徑4公分,球體面積為何?",
