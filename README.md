@@ -359,7 +359,7 @@
     answer: "A" },
 
   { question: "Determine10 x 23 + 10 x 25", 
-    options: ["A. 32,008,000", "B. 520", "C. 400"], 
+    options: ["A. 32,008,000", "B. 520", "C. 480"], 
     answer: "C" }, // 這題應該是 10×2^3 + 10×2^5
 
   { question: "Evaluate 15.4/2 - 2(4.6 - 15.7)", 
@@ -3938,7 +3938,7 @@
       "B. 1 time（一次）",
       "C. 2 times（兩次）"
     ],
-    answer: "B"
+    answer: "C"
   },
   {
     question: "On a graph what is the intercept of y when 4y = x + 8? 當 4y = x + 8 時，y 截距為何？",
@@ -4408,7 +4408,7 @@
       "B. (a + a')i + (b + b')",
       "C. (a + a') + (b + b')i"
     ],
-    answer: "A"
+    answer: "C"
   }
 ]
 
