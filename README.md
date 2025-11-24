@@ -989,11 +989,7 @@
     options: ["A. 208", "B. 104", "C. 312"],
     answer: "C"
   },
-  {
-    question: "Log100+cos60°=",
-    options: ["A. 2 + 0.5 = 2.5"],
-    answer: ""
-  },
+  
   {
     question: "正弦90°為?",
     options: ["A. 1"],
