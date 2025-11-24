@@ -290,9 +290,9 @@
     options: ["A. 2 x 10^3 volts", "B. 2 x 10^-4 volts", "C. 2 x 10^5 volts"], 
     answer: "C" },
 
-  { question: "31/8 - 11/5 =", 
-    options: ["A. 137/40", "B. 13/40", "C. 23/40"], 
-    answer: null }, // 正確值應為 67/40
+  { question: "3,1/8 - 1,1/5 =", 
+    options: ["A. 1,37/40", "B. 1,3/40", "C. 2,3/40"], 
+    answer: "A" },
 
   { question: "4(4 (4 - 1) - 1) - 1 =", 
     options: ["A. 15", "B. 31", "C. 43"], 
